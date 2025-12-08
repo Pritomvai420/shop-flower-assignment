@@ -104,3 +104,31 @@ header{
 .item{
   margin-bottom: 50px;
 }
+
+
+
+/* icon section */
+
+.main-icon{
+  display: flex;
+  justify-content: space-around;
+  background-color: antiquewhite;
+  border-radius: 16px;
+  margin-bottom: 50px;
+}
+.work-1{
+  margin-top: 10px;
+}
+.work-2{
+  margin-top: 10px;
+}
+.work-3{
+  margin-top: 10px;
+}
+
+.work-title{
+  font-weight: 500;
+  font-size: 20px;
+  color: #272727;
+  opacity: 70%;
+}
