@@ -170,3 +170,23 @@ header{
   color: #272727;
   opacity: 50%;
 }
+
+/* media work */
+.social-media{
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  margin-left: 0px;
+  padding-left: 0px;
+  justify-content: center;
+  margin-bottom: 50px;
+  }
+
+
+  .media-4{
+    background-color: rgb(161, 241, 241);
+    height: 400px;
+  }
+
+
+ 
