@@ -9,6 +9,16 @@
 
 
 /* banner style */
+.btn-f{
+  background-color: rgb(175, 235, 11);
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 16px;
+  border: none;
+  color: white;
+}
+
+
 .flower{
   display: flex;
   background-color: #f19eb0;
@@ -187,6 +197,35 @@ header{
     background-color: rgb(161, 241, 241);
     height: 400px;
   }
-
-
  
+  .footer-contain{
+    background-image: url(../style/Rectangle\ 9.png);
+    text-align: center;
+    height: 315px;
+    background-repeat: no-repeat;
+    background-position: center;
+    justify-content: center;
+    padding: 64px 64px 64px 64px;
+    border-radius: 20px;
+    margin-top: 50px;
+
+  }
+
+  .footer-title{
+    font-weight: 700px;
+    font-size: 30px;
+    color: #272727;
+  }
+  .footer-description{
+    font-size: 18px;
+    font-weight: 500;
+    opacity: 70%;
+    color: #272727;
+  }
+
+  .pritom{
+    height: 50px;
+    width: 550px;
+    border: none;
+    border-radius: 10px;
+  }
