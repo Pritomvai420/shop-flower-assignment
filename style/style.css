@@ -1,0 +1,51 @@
+.azeret-mono-normal {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+
+
+/* banner style */
+.flower{
+  display: flex;
+  background-color: #f19eb0;
+  justify-content: space-between;
+  align-items: center;
+padding: 0 100px;
+  
+   
+}
+.flower-all-title{
+  font-weight: 900px;
+  font-size: 50px;
+  color: #272727;
+}
+.flower-all-description{
+  font-size: 18px;
+  font-weight: 500px;
+  color: #272727;
+  opacity: 70%;
+
+}
+header{
+  margin: 0, auto;
+}
+
+
+/* button style */
+.flower-all-button{
+  background-color: #E55473;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  display: inline-block;
+  padding-left: 10px 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+ 
+  
+}
