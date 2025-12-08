@@ -22,6 +22,7 @@ padding: 0 100px;
   font-weight: 900px;
   font-size: 50px;
   color: #272727;
+  
 }
 .flower-all-description{
   font-size: 18px;
@@ -46,6 +47,60 @@ header{
   margin-top: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
- 
-  
+ }
+
+ .flower-button{
+  background-color: rgb(5, 243, 73);
+  font-size: 18px;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  border: none;
+ }
+
+ /* main */
+ .main-item{
+  display: flex;
+  justify-content: space-around;
+  gap: 10px;
+  margin-top: 50px;
+ }
+ main{
+  max-width: 1140px;
+  margin: 0 auto;
+ }
+
+
+
+ /* box style */
+ .box-1{
+  background-color: rgb(124, 239, 239);
+  padding: 20px 30px;
+  border-radius: 16px;
+  box-shadow: inset;
+ }
+
+ .box-2{
+  background-color: rgb(160, 239, 212);
+  padding: 20px 30px;
+  box-shadow: inset;
+  border-radius: 16px;
+ }
+
+ .box-3{
+  background-color: rgb(174, 237, 237);
+  padding: 20px 20px;
+  box-shadow: inset;
+  border-radius: 16px;
+ }
+
+
+ /* shared style */
+
+ .center{
+  text-align: center;
+ }
+
+.item{
+  margin-bottom: 50px;
 }
