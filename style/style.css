@@ -229,3 +229,23 @@ header{
   }
 
 
+  /* small media */
+  @media screen and (max-width:576px) {
+    .flower, .main-item, .offer-box, .social-media{
+      flex-direction: column;
+    }
+    .social-media{
+       align-items: center;
+      /* width: 100%; */
+    }
+   .pritom{
+    width: 300px;
+  
+   }
+   .btn-f{
+    margin-top: 10px;
+   }
+    
+  }
+
+
