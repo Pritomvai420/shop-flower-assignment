@@ -193,13 +193,10 @@ header{
   }
 
 
-  .media-4{
-    background-color: rgb(161, 241, 241);
-    height: 400px;
-  }
+   
  
   .footer-contain{
-    background-image: url(../style/Rectangle\ 9.png);
+    background-image: url(../Flowerassest/Rectangle\ 9.png);
     text-align: center;
     height: 315px;
     background-repeat: no-repeat;
@@ -230,4 +227,4 @@ header{
     border-radius: 10px;
   }
 
-  
+
